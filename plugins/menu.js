@@ -54,7 +54,7 @@ ${menu.search}
 
 _Support Chanel 👋💚_ = *👉  https://whatsapp.com/channel/0029VaePgYXBqbr6Vkg75n1j 👈*
 
-©𝙋𝙊𝙒𝙀𝙍𝙀𝘿 𝘽𝙔 𝘽𝙊𝙓𝙏𝙀𝙍 𝙈𝘿
+©𝙋𝙊𝙒𝙀𝙍𝘿 𝘽𝙔 𝙍𝙀𝘿𝙐𝙓𝙓 𝘽𝙊𝙏
 `
 await conn.sendMessage(from,{image:{url:config.ALIVE_IMG},caption:madeMenu},{quoted:mek})
 
