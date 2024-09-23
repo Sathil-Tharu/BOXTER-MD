@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "Udh31RxR#-2RdNhkgNp9yQVwVPRI5j1Ag-OE_ROPS43Qv8XxvKFE.",
       "required": true
     },  
 
@@ -17,7 +17,7 @@
     },
     
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "HI I AM BOXTER MD WHATSAPP USER BOT.",
       "required": true
     }   
 },
